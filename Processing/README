@@ -11,3 +11,5 @@ List of when made/uploaded/version
     
 4.      test.pde was when I was experimenting with how the text input would change the image, however in this version I was very much stuck with the .contains not taking a list of strings, but it did take them one by one. Not exactly what I want, though. With that, there's parts in this file of code that isn't used anywhere currently, however I thought (at first) I could use it instead of the String a1. 
     -Made 21/09/2021
+    
+5.      messy_garfield.pde and messy_garfield_sad.pde are both more up to date files of the original (mentioned in point 1 and 2), however in messy_garfield.pde there is lots of messy code that I wrote before moving over to test.pde. There's random bits and pieces of code that is irrelevant now. These two files were mostly used to receive a png image from the sketches to use for the test.pde once the text input works properly.
