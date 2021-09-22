@@ -15,4 +15,5 @@ List of when made/uploaded/version
 5.      messy_garfield.pde and messy_garfield_sad.pde are both more up to date files of the original (mentioned in point 1 and 2), however in messy_garfield.pde there is lots of messy code that I wrote before moving over to test.pde. There's random bits and pieces of code that is irrelevant now. These two files were mostly used to receive a png image from the sketches to use for the test.pde once the text input works properly.
     -Made 21/09/2021
     
-    
+6.      textInput.pde and evaluate.pde are two codes that I used to help me with the final code. These codes were found online and weren't made by me, just people with similar issues. I took most of the inspiration from these codes, however parts I did need to adjust to fit my idea better.
+    -Added 21/09/2021
