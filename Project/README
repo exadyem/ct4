@@ -1,1 +1,7 @@
+Project.pde has the (semi) final version of my personal project. The two pngs are necessary for viewing the image - however the code for both the cat faces are included in different files. 
+final_garfield.pde and final_garfield_sad.pde have the two cat faces code.
+
+Project.pde has a couple of details that are still not polished properly, such as when you say "I'm not happy" it still shows the happy cat, instead of the sad one, however saying "I'm not sad" does show the happy face.
+With that, if you make a typo, neither faces show up and it's (for the time I'm uploading this on the 22nd of September) a semi blank page with no indications of anything.
+I used the contains option instead of the equals option so that you can write full sentences - which is probably the issue that caused the problem in line 4 of this README file. Along with that problem, if you type "I'm happy that I'm sad" it shows the happy cat, however in my eyes it should show the sad cat - because the user still states they're upset.
 
