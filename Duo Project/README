@@ -1,1 +1,7 @@
+evil_garfield.pde shows the angry version of the cat I created - it is simply the visuals and no option to input text
 
+giftryout.pde is the file where I tried creating gifs from the images I saved of the happy version of Garfield - as I couldn't figure out a way to save it as a working gif without uploading seperate images.
+
+giftryout_mad.pde is the angry Garfield gif, created in the same way the original giftryout.pde was made.
+
+giftryout_sad.pde is the final gif I made using the sad version of Garfield.
